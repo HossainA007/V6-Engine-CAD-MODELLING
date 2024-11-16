@@ -24,30 +24,22 @@ This project focuses on the **CAD modelling, process selection, and manufacturin
   - Utilized **move/copy**, **chamfer**, and **fillet** tools for designing complex features.
   - Rotated camshaft pairs by ±120° for symmetry.
 - ![Crankshaft 3D Model](pics/1.png)
+![Crankshaft 3D Model](pics/2.png)
 
 ---
 
 ### **2. Piston V6 Assembly**
 - **Design Details**:
   - Includes components like the cylinder head and nuts, assembled using **hole wizard**, **extrude**, and **chamfer** tools.
-- ![Piston Assembly](path/to/piston.png)
-
----
-
-### **3. Connecting Rod**
-- **Process Selection**:
-  - Preferred **forging** due to its strength, material efficiency, and ability to withstand high inertial forces.
-  - Comparison of **sand casting**, **permanent mold casting**, and **die casting** for batch sizes of 10,000+.
-- **Operation Sequence**:
-  - Milling, drilling, chamfering, and oil hole machining were optimized for cost-effectiveness.
-- ![Connecting Rod](path/to/connecting_rod.png)
+- ![Piston Assembly](pics/3.png)
+  ![Piston Assembly](pics/4.png) 
 
 ---
 
 ### **4. Full Engine Housing**
 - **Assembly Features**:
   - **Concentric**, **coincident**, and **width selection** mates for accurate part alignment.
-- ![Engine Housing](path/to/engine_housing.png)
+- ![Engine Housing](pics/7.png)
 
 ---
 
@@ -75,15 +67,14 @@ This project focuses on the **CAD modelling, process selection, and manufacturin
 
 ## **Images**
 1. **Crankshaft Design**  
-   ![Crankshaft Design](path/to/crankshaft.png)
-2. **Piston Assembly**  
-   ![Piston Assembly](path/to/piston.png)
-3. **Engine Housing**  
-   ![Engine Housing](path/to/engine_housing.png)
-4. **Connecting Rod**  
-   ![Connecting Rod](path/to/connecting_rod.png)
+   ![Crankshaft Design](pics/2.png)
+2. **Full Assembly**  
+   ![Full Assembly](pics/7.png)
+4. **Full Assembly**  
+    ![Complete](pics/Picture 1.png)
+3. **Connecting Rod**  
+   ![Connecting Rod](pics/4.png)
 
----
 
 ## **How to Use**
 1. **CAD Modelling**:
@@ -101,3 +92,4 @@ This project focuses on the **CAD modelling, process selection, and manufacturin
 This project was supervised by **Professor Sylvie Castagne** and **Bey Vrancken** as part of the Virtual Product Development course at **KU Leuven**.
 
 ---
+
