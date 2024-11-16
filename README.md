@@ -23,7 +23,7 @@ This project focuses on the **CAD modelling, process selection, and manufacturin
 - **Design Features**:
   - Utilized **move/copy**, **chamfer**, and **fillet** tools for designing complex features.
   - Rotated camshaft pairs by ±120° for symmetry.
-- ![Crankshaft 3D Model](HossainA007/V6-Engine-CAD-MODELLING/pics/1.png)
+- ![Crankshaft 3D Model](path/pics/1.png)
 
 ---
 
